@@ -3,11 +3,7 @@
 
 RTL-SDR радиосканер позволяет осуществлять прием аналоговых и цифровых радиостанций, при использовании бесплатного SDR программного обеспечения, например [SdrSharp (SDR#)](#).
 
-|  ![зображення](public/Best-RTL-SDR-V3-Pro-RTL2832U-R820T2-0-5PPM-TXCO-HF-Bias-SMA-Software-Defined-Radio.jpg_220x220xz.jpg) |
-|:-:|
-| **750 грн** ~~780 грн~~ |
-| економите 30 грн |
-|  **купити зараз** |
+![зображення](public/Best-RTL-SDR-V3-Pro-RTL2832U-R820T2-0-5PPM-TXCO-HF-Bias-SMA-Software-Defined-Radio.jpg_220x220xz.jpg)
 
 ## USB doungle
 
